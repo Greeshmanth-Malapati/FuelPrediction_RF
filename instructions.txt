@@ -1,0 +1,21 @@
+Instructions to run the project :
+
+-> In the zip file I have provided the Project App folder
+
+->Install the anaconda from https://www.anaconda.com/products/individual according to the OS you are using
+
+->Follow the installation steps and complete the installation of anaconda
+
+->Open anaconda prompt and navigate to the project file location (which is Project App folder)
+
+->Now, run the command "python app.py"
+
+->Now, the app will run and can be visualised in http://127.0.0.1:5000/
+
+-> Open the browser and type the above url in the search bar then the fuel prediction page will be displayed.
+
+-> Given the input fields and a click on submit button results in displaying the output "MPG"
+
+
+Note : Source code is the ipynb file which I used for generating pickle file in the project app. To run the app source code is not required "Project App" is the folder required to run the project.
+
